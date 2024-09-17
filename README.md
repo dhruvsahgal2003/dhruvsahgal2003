@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on **WebApp Projects, let's collaborate on innovative AI solutions**
 
 - 📫 How to reach me **dhruvsahgal2003@gmail.com**
- ![Alt Text](hhttps://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=790b7611s5f59rtxu77dorw1iw4kqeev7oq8tr7jfzocq986&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+ ![Alt Text](<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a></p>)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
