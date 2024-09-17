@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhruv Sahgal</h1>
-<h3 align="center">Final-year BTech Computer Science Engineering student aspiring to be a Computer Vision Engineer, with strong expertise in Python and C++, and a passion for developing innovative solutions in image processing and computer vision.</h3>
+<h3 align="center">Final-year BTech Computer Science Engineering student aspiring to be a Computer Vision Engineer, with strong expertise in Python and C++, and a passion for developing innovative solutions in AI and computer vision.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvsahgal2003&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvsahgal2003" /> </p>
 
