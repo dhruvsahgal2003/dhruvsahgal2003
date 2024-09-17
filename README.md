@@ -12,6 +12,7 @@
 - 👯 I’m looking to collaborate on **WebApp Projects, let's collaborate on innovative AI solutions**
 
 - 📫 How to reach me **dhruvsahgal2003@gmail.com**
+- ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
